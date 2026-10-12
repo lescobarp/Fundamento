@@ -1,0 +1,4 @@
+P001;Arroz Extra Costeño 1kg;600;4.50
+P002;Aceite Vegetal Primor 1L;300;11.20
+P003;Leche Evaporada Gloria 400g;400;4.20
+P004;Ace;400;35.00
